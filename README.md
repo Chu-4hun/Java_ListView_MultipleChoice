@@ -1,2 +1,2 @@
 # Java_ListView_MultipleChoice 
-![Alt-текст](video.gif)
+<img src="video.gif" alt="video demo" height="600"/>
